@@ -13,11 +13,11 @@ Aquí se encuentran los exámenes correspondientes a la unidad.
 
 | Examen        | Imagen |
 |--------------|--------|
-| **Examen 1** | ![image](https://github.com/user-attachments/assets/110c216e-3df0-4cdd-af66-f9fedd565d8c)|
-| **Examen 2** |![image](https://github.com/user-attachments/assets/cc76b7cf-65d9-412f-8d24-276fc8633d1a)|
-| **Examen 3** |![image](https://github.com/user-attachments/assets/6c494911-ef6e-4f39-95e0-bc05e7215010)|
-| **Examen 4** |![image](https://github.com/user-attachments/assets/6202c94f-a154-4cd9-950e-fdb6692bbd1a)|
-| **Examen Final** | ![image](https://github.com/user-attachments/assets/07ec01aa-da91-47ca-a56c-05285e9f9750)|
+| **Examen 1** | ![Examen 1](https://github.com/user-attachments/assets/110c216e-3df0-4cdd-af66-f9fedd565d8c) |
+| **Examen 2** | ![Examen 2](https://github.com/user-attachments/assets/cc76b7cf-65d9-412f-8d24-276fc8633d1a) |
+| **Examen 3** | ![Examen 3](https://github.com/user-attachments/assets/6c494911-ef6e-4f39-95e0-bc05e7215010) |
+| **Examen 4** | ![Examen 4](https://github.com/user-attachments/assets/6202c94f-a154-4cd9-950e-fdb6692bbd1a) |
+| **Examen Final** | ![Examen Final](https://github.com/user-attachments/assets/07ec01aa-da91-47ca-a56c-05285e9f9750) |
 
 ---
 
@@ -26,11 +26,11 @@ La sección práctica incluye experimentos, videos, códigos y diagramas de cone
 
 ### 🎥 **Videos de Sensores y Actuadores**
 📁 Accede a la carpeta en Google Drive:  
-🔗 [Ver videos]([https://drive.google.com/drive/folders/1Eynf96u0-kDtPVw4BOkZbLFXp8yro4is?usp=sharing](https://drive.google.com/drive/folders/1-02IDYvgLqEjlUYHk_buSFurJojuIV7W?usp=sharing))
+🔗 [Ver videos](https://drive.google.com/drive/folders/1-02IDYvgLqEjlUYHk_buSFurJojuIV7W?usp=sharing)
 
 ### 🐍 **Códigos en Python**
 📂 Repositorio con los códigos de la unidad:  
-🔗 [Ver códigos](codigos)
+🔗 [Ver códigos](https://github.com/Tanquex/IOT-IE-U2-2025/tree/main/Codigos)
 
 ### 🔌 **Diagramas de Conexión**
 _(Aquí puedes agregar imágenes o enlaces a tus diagramas de conexión)_
