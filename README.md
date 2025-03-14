@@ -26,7 +26,7 @@ La sección práctica incluye experimentos, videos, códigos y diagramas de cone
 
 ### 🎥 **Videos de Sensores y Actuadores**
 📁 Accede a la carpeta en Google Drive:  
-🔗 [Ver videos](https://drive.google.com/drive/folders/1Eynf96u0-kDtPVw4BOkZbLFXp8yro4is?usp=sharing)
+🔗 [Ver videos]([https://drive.google.com/drive/folders/1Eynf96u0-kDtPVw4BOkZbLFXp8yro4is?usp=sharing](https://drive.google.com/drive/folders/1-02IDYvgLqEjlUYHk_buSFurJojuIV7W?usp=sharing))
 
 ### 🐍 **Códigos en Python**
 📂 Repositorio con los códigos de la unidad:  
