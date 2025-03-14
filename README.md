@@ -13,11 +13,11 @@ Aquí se encuentran los exámenes correspondientes a la unidad.
 
 | Examen        | Imagen |
 |--------------|--------|
-| **Examen 1** | ![Examen 1](https://github.com/user-attachments/assets/9396781c-1920-4c22-a651-21af402c5c7d) |
-| **Examen 2** | ![Examen 2](https://github.com/user-attachments/assets/00aa5933-c4c2-4c35-863a-812c06ce0847) |
-| **Examen 3** | ![Examen 3](https://github.com/user-attachments/assets/bd04e6f6-0d57-44ef-a9be-15346edde4eb) |
-| **Examen 4** | ![Examen 4](https://github.com/user-attachments/assets/a003b25d-1203-472d-8965-e70c3ec21585) |
-| **Examen Final** | ![Examen Final](https://github.com/user-attachments/assets/159df579-7181-42f6-91e5-5b2f0e09058f) |
+| **Examen 1** | ![image](https://github.com/user-attachments/assets/110c216e-3df0-4cdd-af66-f9fedd565d8c)|
+| **Examen 2** |![image](https://github.com/user-attachments/assets/cc76b7cf-65d9-412f-8d24-276fc8633d1a)|
+| **Examen 3** |![image](https://github.com/user-attachments/assets/6c494911-ef6e-4f39-95e0-bc05e7215010)|
+| **Examen 4** |![image](https://github.com/user-attachments/assets/6202c94f-a154-4cd9-950e-fdb6692bbd1a)|
+| **Examen Final** | ![image](https://github.com/user-attachments/assets/07ec01aa-da91-47ca-a56c-05285e9f9750)|
 
 ---
 
