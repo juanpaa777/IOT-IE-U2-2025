@@ -30,7 +30,7 @@ La sección práctica incluye experimentos, videos, códigos y diagramas de cone
 
 ### 🐍 **Códigos en Python**
 📂 Repositorio con los códigos de la unidad:  
-🔗 [Ver códigos](https://github.com/Tanquex/IOT-IE-U2-2025/tree/main/Codigos)
+🔗 [Ver códigos](codigos)
 
 ### 🔌 **Diagramas de Conexión**
 _(Aquí puedes agregar imágenes o enlaces a tus diagramas de conexión)_
