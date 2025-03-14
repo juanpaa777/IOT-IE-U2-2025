@@ -41,7 +41,7 @@ _(Descripción y enlaces a imágenes de la placa con LEDs si aplica)_
 ### 🔩 **Ejercicio 4: Figura Soldada (2D o 3D)**
 | Imagen 1 | Imagen 2 |
 |----------|----------|
-| ![Figura Soldada 1](https://github.com/user-attachments/assets/875e0c1e-489d-4e3a-a13b-d421d507f686) | ![Figura Soldada 2](https://github.com/user-attachments/assets/d19699e0-1878-43e5-b5d9-4a46cb1b6d07) |
+| ![Figura Soldada 1]() | ![Figura Soldada 2]() |
 
 ---
 
