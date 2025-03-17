@@ -1,0 +1,68 @@
+Create a new database user:
+
+CREATE USER utng WITH PASSWORD ’1234’;
+Create a new database:
+
+CREATE DATABASE aiot OWNER utng;
+Grant privileges:
+
+GRANT ALL PRIVILEGES ON DATABASE aiot TO utng;
+Cambiar a la base de datos aiot
+
+
+   \c aiot
+
+Create table users:
+
+
+   CREATE TABLE users(id SERIAL PRIMARY KEY, email VARCHAR(100),    password VARCHAR(255), record_at TIMESTAMP DEFAULT now());
+
+Create table sensors:
+
+
+   CREATE TABLE sensors(id SERIAL PRIMARY KEY, name VARCHAR(100), type VARCHAR(50), record_at TIMESTAMP DEFAULT now());
+
+Create table sensor_details:
+
+
+   CREATE TABLE sensor_details(id SERIAL PRIMARY KEY, sensor_id INTEGER, user_id INTEGER, value VARCHAR(100) record_at TIMESTAMP DEFAULT now(), FOREIGN KEY(sensor_id) REFERENCES sensors(id), FOREIGN KEY(user_id) REFERENCES users(id));
+
+Create table actuators:
+
+
+   CREATE TABLE actuators(id SERIAL PRIMARY KEY, name VARCHAR(100), type VARCHAR(50), record_at TIMESTAMP DEFAULT now());
+
+Create table actuator_details:
+
+
+CREATE TABLE actuator_details(id SERIAL PRIMARY KEY, actuator_id INTEGER, user_id INTEGER, state VARCHAR(100) record_at TIMESTAMP DEFAULT now(), FOREIGN KEY(actuator_id) REFERENCES actuators(id), FOREIGN KEY(user_id) REFERENCES users(id));
+
+Create encryption function:  
+
+
+   CREATE EXTENSION IF NOT EXISTS pgcrypto;
+
+   CREATE OR REPLACE FUNCTION encriptar_contrasena(p_contrasena TEXT) 
+
+           RETURNS TEXT AS $$                                                                                       
+
+      BEGIN                                                                                                        
+
+          RETURN crypt(p_contrasena, gen_salt('bf')); 
+
+      END;                                                                                                     
+
+     $$ LANGUAGE plpgsql;
+
+Insert data:
+
+
+INSERT INTO users(email, clave) VALUES('crackiman@gmail.com', encriptar_contrasena('patito'));
+
+INSERT INTO sensors(name, type) VALUES('DHT11', 'DIGITAL');
+
+INSERT INTO sensor_details(sensor_id, user_id, value) VALUES(1,1,'25'); 
+
+INSERT INTO actuators(name, type) VALUES('LED', 'ILUMINACION');
+
+INSERT INTO actuator_details(actuator_id, user_id, state) VALUES(1,1,'ON');
