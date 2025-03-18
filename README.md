@@ -33,7 +33,7 @@ La sección práctica incluye experimentos, videos, códigos y diagramas de cone
 🔗 [Ver códigos](https://github.com/Tanquex/IOT-IE-U2-2025/tree/main/Codigos)
 
 ### 🔌 **Diagramas de Conexión**
-🔗 [Ver códigos](Diagramas/Wokwis)
+🔗 [Ver diagramas](Diagramas/Wokwis)
 
 ### 💡 **Placa con LEDs**
 _(Descripción y enlaces a imágenes de la placa con LEDs si aplica)_
